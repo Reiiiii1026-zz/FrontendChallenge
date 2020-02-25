@@ -129,6 +129,9 @@ p {
   line-height: 25px;
 }
 
+button{
+  cursor:pointer;
+}
 /*-----------------------------CLASS---------------------------------*/
 .wrap {
   width: 1440px;
@@ -325,7 +328,6 @@ p {
   width: 50px;
   border-radius: 50%;
   float: left;
-  margin-right: 10px;
 }
 
 /*-------sign in--------*/
